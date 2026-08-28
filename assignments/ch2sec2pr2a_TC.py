@@ -1,5 +1,13 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
-File name: ch2sec2pr4b_TC.py
+Created on Sat Aug 22 14:25:14 2026
+
+@author: troy
+"""
+
+"""
+File name: ch2sec2pr2b_TC.py
 Name: Troy Chin
 Date: 08-22-2026
 """
